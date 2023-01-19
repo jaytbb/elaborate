@@ -3,13 +3,17 @@ playlist annotation
 
 - [x] name
 - [x] github repo
+- [ ] website
+  - [x] static
+  - [x] dynamic server-side
+  - [ ] dynamic client-side
+  - [ ] wasm
 - [ ] prototype, local
   - [ ] add songs by name and artist
   - [ ] song descriptions
   - [ ] playlist description
   - [ ] just sort out ui
 - [ ] reorder, delete songs
-- [ ] website
 - [ ] tumblr blog
 - [ ] connect spotify account, import spotify playlists
 - [ ] overwrite spotify playlist
