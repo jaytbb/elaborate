@@ -6,8 +6,9 @@ playlist annotation
 - [ ] website
   - [x] static
   - [x] dynamic server-side
-  - [ ] dynamic client-side
+  - [x] dynamic client-side
   - [ ] wasm
+  - [ ] websocket communication between client and server code
 - [ ] prototype, local
   - [ ] add songs by name and artist
   - [ ] song descriptions
