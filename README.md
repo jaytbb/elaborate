@@ -17,16 +17,15 @@ playlist annotation
 - [ ] reorder, delete songs
 - [ ] tumblr blog
 - [ ] connect spotify account, import spotify playlists
-- [ ] overwrite spotify playlist
+- [ ] overwrite/sync with spotify playlist
+- [ ] tags
+  - [ ] filter by tags
+- [ ] highlight + annotate lyrics
+  - [ ] import lyrics from genius/equivalent
 - [ ] multiple playlists per user
 - [ ] import albums as well?
   - [ ] it would be funny if you could annotate other peoples playlists
 - [ ] link & share playlists with other people
-- [ ] highlight + annotate lyrics
-  - [ ] import lyrics from genius/equivalent
-- [ ] tags
-  - [ ] filter by tags
-- [ ] more platforms (apple music, youtube)
 - [ ] playlist subsections
   - [ ] with titles & descriptions
 - [ ] listen to songs through website (soundcloud?)
@@ -35,7 +34,9 @@ playlist annotation
 - [ ] multimedia (attach images to songs/song descriptions)
 - [ ] user profiles listing playlists
   - [ ] set playlists public/private
-- [ ] playlist tags
+  - [ ] playlist tags
+- [ ] integrate with spicetify (extension/custom app?)
+- [ ] more platforms (apple music, youtube)
 
 similar examples:
 
